@@ -9,5 +9,4 @@ int main(){
     //b=7.22 ;//this cant be done as b is constant in previous line
     printf("Helloworld\n");
     printf("%f",pi );
-    
 }

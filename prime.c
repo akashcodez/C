@@ -4,5 +4,4 @@
 int main(){
     int a = 7;
     printf("%d is prime.", a);
-    
 }
